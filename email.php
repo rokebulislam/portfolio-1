@@ -1,6 +1,6 @@
 <?php
 $subject = 'You Got Message'; // Subject of your email
-$to = 'personal@shahoriarnazim.info';  //Recipient's E-mail
+$to = 'smrokebulislam@proton.me';  //Recipient's E-mail
 $emailTo = $_REQUEST['email'];
 
 $name = $_REQUEST['name'];
